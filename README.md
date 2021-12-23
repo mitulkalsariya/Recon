@@ -1,6 +1,6 @@
 # Recon
 
-#Description
+# Description
 
 This Tool will be the full automation tool that can be do full recon
 
@@ -9,7 +9,7 @@ This Tool will be the full automation tool that can be do full recon
 So, Welcome and let's deep into it :)
 
 
-#Tools used
+# Tools used
 
 1.subfinder
 2.findomain
