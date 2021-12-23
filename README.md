@@ -24,3 +24,7 @@ So, Welcome and let's deep into it :)
 6.waybackurl
 
 7.nuclei
+
+
+# stay connected
+[LinkedIn](https://www.linkedin.com/in/mitulkalsariya/) |  [Twitter](https://twitter.com/Mitulkalsariya2)
